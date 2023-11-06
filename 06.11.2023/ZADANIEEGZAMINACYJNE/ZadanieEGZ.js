@@ -1,0 +1,2 @@
+
+    alert("zadanie2");

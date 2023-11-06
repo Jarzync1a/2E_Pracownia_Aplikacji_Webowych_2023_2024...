@@ -1,0 +1,5 @@
+Zalety:
+iele stron możne korzystać z tego samego kodu, a konieczność zmiany programu nie pociąga za sobą konieczności zmiany kodu wielu stron.
+
+Wady:
+Wadą takiego rozwiązania jest wolniejsze ładowanie strony przy zaczytywaniu kodu z pliku zewnętrznego. Ma to szczególne znaczenie dla stron mobilnych.
